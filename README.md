@@ -24,7 +24,7 @@ O sistema segue o conceito **app-like**, oferecendo uma experiência semelhante 
 ## 🖼️ Preview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jtn-san/alquiimia/main/img/favicon_1.png" width="120"/>
+  <img src="https://raw.githubusercontent.com/jtn-san/alquiimia/main/img/logotopo.png" width="350"/>
 </p>
 
 ---
@@ -107,7 +107,7 @@ Projeto hospedado na **Netlify**
 - 🔑 Sistema de autenticação completo  
 - 🗄️ Integração com API/backend  
 - 💾 Persistência de dados  
-- 🌙 Modo escuro  
+- 🌙 Dark Mode  
 - 🔔 Sistema de notificações  
 
 ---
